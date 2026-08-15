@@ -18,6 +18,7 @@ that work, including **FraudShield**, an ML-based fake job posting detector.
 - [EmailJS](https://www.emailjs.com/) for the contact form
 
 ## Running Locally
+<<<<<<< HEAD
 
 ```
 git clone https://github.com/MAJUMDARcu/reactjs18-3d-portfolio.git
@@ -53,3 +54,5 @@ customized with original content and project write-ups.
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+=======
+>>>>>>> 6317dc110d98e73c7dcc24ce1637a939eed01a60
