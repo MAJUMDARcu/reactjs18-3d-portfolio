@@ -108,6 +108,25 @@ const Contact = () => {
             {loading ? "Sending..." : "Send"}
           </button>
         </form>
+
+        <div className="mt-8 flex gap-6">
+          <a
+            href={config.socials.github}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-secondary font-medium hover:text-white"
+          >
+            GitHub ↗
+          </a>
+          <a
+            href={config.socials.linkedin}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-secondary font-medium hover:text-white"
+          >
+            LinkedIn ↗
+          </a>
+        </div>
       </motion.div>
 
       <motion.div

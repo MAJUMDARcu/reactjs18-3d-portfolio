@@ -13,9 +13,12 @@ import numpy from "./tech/numpy.svg";
 import scikitlearn from "./tech/scikitlearn.svg";
 import jupyter from "./tech/jupyter.svg";
 import mysql from "./tech/mysql.svg";
+import postgresql from "./tech/postgresql.svg";
+import matplotlib from "./tech/matplotlib.svg";
 import git from "./tech/git.png";
 
 import placeholderProject from "./placeholder-project.svg";
+import dipanPhoto from "./dipan-photo.jpg";
 
 export {
   logo,
@@ -32,6 +35,9 @@ export {
   scikitlearn,
   jupyter,
   mysql,
+  postgresql,
+  matplotlib,
   git,
   placeholderProject,
+  dipanPhoto,
 };
